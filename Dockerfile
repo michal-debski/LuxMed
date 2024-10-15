@@ -1,3 +1,3 @@
-FROM eclipse-temurin:17
-COPY build/libs/*.jar order_application.jar
-ENTRYPOINT ["java","-jar","/luxmed_recruitment.jar"]
+FROM eclipse-temurin:21
+COPY target/luxmed-recruitment-0.0.1-SNAPSHOT.jar luxmed-recruitment.jar
+ENTRYPOINT ["java", "-jar", "/luxmed-recruitment.jar"]

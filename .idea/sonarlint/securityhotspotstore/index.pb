@@ -100,3 +100,6 @@ B
 docker-compose.yml,3\5\35b8c13cf2eb2a194eada000eb310d65aed53b2a
 Ž
 ^src/main/java/pl/example/infrastructure/database/repository/mapper/DepartmentEntityMapper.java,8\d\8d40f8a78de30e7978bd20aa9455373bc3c6b736
+:
+
+.gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
