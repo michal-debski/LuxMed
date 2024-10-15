@@ -1,0 +1,19 @@
+
+‰
+java:S1598"æThis file "PersistenceJpaConfiguration.java" should be located in "pl\zajavka\infrastructure\configuration" directory, not in "\\C\Users\micha\IdeaProjects\luxmed-recruitment\src\main\java\pl\example\infrastructure\configuration".(¶Æ™Òÿÿÿÿÿ8ê§†Ã§2
+c
+java:S32523"FUse static access with "org.hibernate.cfg.JdbcSettings" for "DIALECT".(Ï´Âá8œ¨†Ã§2
+c
+java:S32523"FUse static access with "org.hibernate.cfg.JdbcSettings" for "DIALECT".(Ï´Âá8œ¨†Ã§2
+v
+java:S32524"TUse static access with "org.hibernate.cfg.SchemaToolingSettings" for "HBM2DDL_AUTO".(åˆÕâşÿÿÿÿ8¨†Ã§2
+v
+java:S32524"TUse static access with "org.hibernate.cfg.SchemaToolingSettings" for "HBM2DDL_AUTO".(åˆÕâşÿÿÿÿ8¨†Ã§2
+d
+java:S32525"GUse static access with "org.hibernate.cfg.JdbcSettings" for "SHOW_SQL".(ÉØ­Ş8¨†Ã§2
+d
+java:S32525"GUse static access with "org.hibernate.cfg.JdbcSettings" for "SHOW_SQL".(ÉØ­Ş8¡¨†Ã§2
+k
+java:S32526"IUse static access with "org.hibernate.cfg.JdbcSettings" for "FORMAT_SQL".(¬óşÉøÿÿÿÿ8¢¨†Ã§2
+k
+java:S32526"IUse static access with "org.hibernate.cfg.JdbcSettings" for "FORMAT_SQL".(¬óşÉøÿÿÿÿ8¢¨†Ã§2
