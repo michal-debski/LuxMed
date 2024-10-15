@@ -1,4 +1,4 @@
-package pl.example.database.entity;
+package pl.example.infrastructure.database.entity;
 
 import jakarta.persistence.*;
 import lombok.*;

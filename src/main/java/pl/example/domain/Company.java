@@ -1,10 +1,10 @@
-package pl.example.infrastructure.domain;
+package pl.example.domain;
 
-import jakarta.persistence.*;
 import lombok.*;
-import pl.example.infrastructure.infrastructure.entity.DepartmentEntity;
+import pl.example.infrastructure.database.entity.DepartmentEntity;
 
 import java.util.Set;
+
 
 @Builder
 @Data
@@ -15,6 +15,6 @@ public class Company {
     Long id;
 
     String name;
-    Set<DepartmentEntity> departments;
+    Set<Department> departments;
 
 }

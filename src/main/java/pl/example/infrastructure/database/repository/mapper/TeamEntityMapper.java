@@ -1,8 +1,8 @@
-package pl.example.database.repository.mapper;
+package pl.example.infrastructure.database.repository.mapper;
 
 import org.mapstruct.Mapper;
 import org.mapstruct.ReportingPolicy;
-import pl.example.database.entity.TeamEntity;
+import pl.example.infrastructure.database.entity.TeamEntity;
 import pl.example.domain.Team;
 
 @Mapper(componentModel = "spring", unmappedTargetPolicy = ReportingPolicy.IGNORE)

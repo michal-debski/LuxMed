@@ -3,10 +3,10 @@ services:
   backend:
     build: .
     ports:
-      - 8190:8190
+      -  8080:8080
     environment:
       - SPRING_PROFILES_ACTIVE=local
-      - SPRING_DATASOURCE_URL=jdbc:postgresql://PostgreSQL:5432/order-app
+      - SPRING_DATASOURCE_URL=jdbc:postgresql://PostgreSQL:5432/luxmed-recruitment
       - SPRING_DATASOURCE_USERNAME=postgres
       - SPRING_DATASOURCE_PASSWORD=postgres
     networks:
@@ -19,7 +19,7 @@ services:
     ports:
       - 5432:5432
     environment:
-      - POSTGRES_DB=order-app
+      - POSTGRES_DB=luxmed-recruitment
       - POSTGRES_USER=postgres
       - POSTGRES_PASSWORD=postgres
     volumes:
